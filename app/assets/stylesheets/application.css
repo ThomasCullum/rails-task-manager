@@ -13,3 +13,9 @@
  *= require_tree .
  *= require_self
  */
+.pretty {
+text-align: center;
+text-decoration: none;
+border-radius: 8px;
+background-color: antiquewhite;
+}
